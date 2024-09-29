@@ -2,7 +2,7 @@
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPLv3). You may find the full text in the "License" file. 
+This project is licensed under the GNU General Public License v3.0 (GPLv3). You may find the full text in the ["License"](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/License.txt) file. 
 
 ### Dataset License
 
