@@ -4,5 +4,4 @@ plotly==5.24.1
 rapidfuzz==3.10.0
 kaleido==0.1.0.post1 #needed for rendering graphs in GitHub
 scipy==1.14.1
-#statsmodels==0.14.3 (need to add if I will use trendlines)
 
