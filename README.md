@@ -1,11 +1,11 @@
 # Coursera Course Dataset Analysis
 
 ## Introduction
-This project aims to generate actionable insights for Coursera to help increase course enrollment. The analysis includes various factors that could impact enrollment numbers, such as course ratings, certificate types, and difficulty levels. Separate analyses were conducted for outliers to avoid skewed results.
+This project aims to generate actionable insights for Coursera to help increase student enrollment. The analysis includes various factors that could impact enrollment numbers, such as ratings, certificate types, and difficulty levels. Separate analyses were conducted for outliers to avoid skewed results.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPLv3). You may find the full text in the ["License"](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/License.txt) file. 
+This project is licensed under the GNU General Public License v3.0 (GPLv3). You can find the full text in the ["License"](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/License.txt) file. 
 
 ## Dataset
 
@@ -50,7 +50,7 @@ The analysis employed:
 
 ## How to Use This Repository
 1. **Data:** Load the dataset from the provided [Kaggle link](https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset) or [this repository](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/coursea_data.csv).
-2. **Install Dependencies:** then install required packages using [requirements.txt](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/requirements.txt).
+2. **Install Dependencies:** install required packages using [requirements.txt](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/requirements.txt).
 3. **Code Execution:** Download and run [the notebook](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/Graded_task_sprint_3.ipynb) to your local machine to view interactive Plotly graphs. 
 4. **Results Visualization:** View static visualizations in the [images folder](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/tree/main/images).
 
