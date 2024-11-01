@@ -22,7 +22,8 @@ This project uses the Coursera Course Dataset from [Kaggle](https://www.kaggle.c
 ## Methodology
 The analysis employed:
 
-- **Data Visualization:** violin, scatter plots, bar charts and histograms.
+- **Data cleaning:** checking for duplicates, missing values, inconsistent data entry (using fuzz ratio), and outliers.
+- **Data Visualization:** violin, scatter plots, bar charts, box-plots, and histograms.
 - **Statistical Testing:** non-parametric tests (Mann-Whitney U, Kruskal-Wallis) due to non-normal data distribution.
 - **Correlation Analysis:** Pearson correlation.
 
@@ -44,9 +45,10 @@ The analysis employed:
 
 ## Possible analysis improvements
 1. Using more advanced statistical techniques. Explore generalized linear models (GLMs), or non-parametric multivariate analyses to see if combining several factors (like ratings, difficulty, and certificate type) provides a more holistic understanding of enrollment patterns. 
-2. Expanding analysis to extract and analyze subject themes. For example, coding, wellbeing, etc. As some themes may be more popular than others. 
-3. Including additional datasets to access official ratings of learning institutions present. It would allow to access if their popularity/prestige had an effect on results. 
-4. Explore affects of on different data attributes. Now, main focus was student enrolment. Thus, areas like ratings vs product difficulty were not analyzed. 
+2. Exploring alternative methods for calculating correlation like Phik's coefficient, which can include categorical variables.
+3. Expanding analysis to extract and analyze subject themes. For example, coding, wellbeing, etc. As some themes may be more popular than others. 
+4. Including additional datasets to access official ratings of learning institutions present. It would allow to access if their popularity/prestige had an effect on results. 
+5. Explore affects of on different data attributes. Now, main focus was student enrolment. Thus, areas like ratings vs product difficulty were not analyzed. 
 
 ## How to Use This Repository
 1. **Data:** Load the dataset from the provided [Kaggle link](https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset) or [this repository](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/blob/main/coursea_data.csv).
