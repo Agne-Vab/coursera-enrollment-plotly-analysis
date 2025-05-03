@@ -57,5 +57,5 @@ The analysis employed:
 4. **Results Visualization:** View static visualizations in the [images folder](https://github.com/TuringCollegeSubmissions/avabal-PYDA.3.5/tree/main/images).
 
 ## Contact
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
